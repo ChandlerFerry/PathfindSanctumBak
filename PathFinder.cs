@@ -325,7 +325,7 @@ public class PathFinder
         {
             return 3;
         }
-        else if (bossId == "xxxx_Boss_1_1")
+        else if (bossId == "Crypt_Boss_1_1")
         {
             return 4;
         }
